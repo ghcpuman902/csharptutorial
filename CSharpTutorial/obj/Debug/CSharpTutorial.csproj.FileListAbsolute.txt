@@ -1,0 +1,6 @@
+/Users/manglekuo/Dev/csharp/CSharpTutorial/CSharpTutorial/bin/Debug/CSharpTutorial.exe
+/Users/manglekuo/Dev/csharp/CSharpTutorial/CSharpTutorial/bin/Debug/CSharpTutorial.pdb
+/Users/manglekuo/Dev/csharp/CSharpTutorial/CSharpTutorial/obj/Debug/CSharpTutorial.csprojAssemblyReference.cache
+/Users/manglekuo/Dev/csharp/CSharpTutorial/CSharpTutorial/obj/Debug/CSharpTutorial.csproj.CoreCompileInputs.cache
+/Users/manglekuo/Dev/csharp/CSharpTutorial/CSharpTutorial/obj/Debug/CSharpTutorial.exe
+/Users/manglekuo/Dev/csharp/CSharpTutorial/CSharpTutorial/obj/Debug/CSharpTutorial.pdb

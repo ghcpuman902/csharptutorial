@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A07956A9-13F1-45AA-AEBE-4C3B2570FDA5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/Program.cs">
+    <Files>
+      <File FileName="CSharpTutorial/Program.cs" Line="6" Column="2" />
+      <File FileName="CSharpTutorial/ExtensionTest.cs" Line="6" Column="22" />
+      <File FileName="CSharpTutorial/Shapes.cs" Line="2" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpTutorial" expanded="True">
+            <Node name="CSharpTutorial" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
